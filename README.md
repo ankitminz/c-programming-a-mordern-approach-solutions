@@ -3,8 +3,8 @@ These are my solutions to exercises and projects of C Programming, A Modern Appr
 Official solutions can be found at http://knking.com/books/c2/answers/index.html.
 
 # Tools used
-Editor: Notepad++
-Compiler: gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+- Editor: Notepad++
+- Compiler: gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
 
 # Compiler options
 Till chapter 3, I have used: `gcc filename.c -o filename`.
@@ -39,7 +39,7 @@ To know more about compiler options see options for **controlling C dialects** a
 ### Exercises
 1. [What output](https://github.com/ankitminz/c-programming-a-mordern-approach-solutions/blob/master/Ch3/Exercises/Ch3E1/WhatOutput.c)
 2. [Float](https://github.com/ankitminz/c-programming-a-mordern-approach-solutions/blob/master/Ch3/Exercises/Ch3E2/Float.c)
-3. *Not done*
+3. *Not a programming problem*
 4. [User input](https://github.com/ankitminz/c-programming-a-mordern-approach-solutions/blob/master/Ch3/Exercises/Ch3E4/UserInput.c)
 5. [User input v2](https://github.com/ankitminz/c-programming-a-mordern-approach-solutions/blob/master/Ch3/Exercises/Ch3E5/UserInput_v2.c)
 6. [Add fraction](https://github.com/ankitminz/c-programming-a-mordern-approach-solutions/blob/master/Ch3/Exercises/Ch3E6/AddFrac.c)
